@@ -1,0 +1,43 @@
+body{
+    background-color: #ffa600;
+}
+.stopWatch-titr{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 20vh;
+}
+.stopWatch-titr2{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 5vh;
+}
+.height100{
+    width: 100%;
+    height: 40vh;
+}
+.cornometr{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+}
+.stopWatch-btn{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    background-color: #ffa600;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.stopWatch-btn:hover{
+    background-color: #FFFFFF;
+    color: #ffa600;
+    border: 2px solid #FFFFFF;
+}
